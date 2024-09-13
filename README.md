@@ -1,4 +1,4 @@
-# BC | Angular Portfolio App
+# SC | Angular Portfolio App
 
 This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://www.choubeyshubham.in/](https://www.choubeyshubham.in/)
 
@@ -29,8 +29,7 @@ The potfolio has sections of home, about, education, portfolio projects and cont
 - Bootstrap
 - Ngx-Bootstrap
 - Dev Icons
-- Vercel
-- Vite
+ 
 
 ## Development server
 
